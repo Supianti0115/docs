@@ -10,6 +10,8 @@
   "favicon": "/favicon.svg",
   "navigation": {
     "pages": [
+      "untitled-page-2",
+      "untitled-page",
       {
         "group": "Getting Started",
         "pages": [
